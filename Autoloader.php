@@ -1,12 +1,5 @@
 <?php
 
-
-namespace Fork\Autoloader;
-
-
-use RecursiveDirectoryIterator;
-use RecursiveIteratorIterator;
-
 class Autoloader
 {
     protected static $fileExt = '.php';
